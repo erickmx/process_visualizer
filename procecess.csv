@@ -1,0 +1,248 @@
+1,launchd,Ss,root,0.153261,0.094318,0
+57,syslogd,Ss,root,0.004984,0.013638,0
+58,UserEventAgent,Ss,root,0.004431,0.072479,0
+61,uninstalld,Ss,root,0.001876,0.009155,0
+62,kextd,Ss,root,0.013795,0.044823,0
+63,fseventsd,Ss,root,0.048980,0.039291,0
+68,appleeventsd,Ss,_appleevents,0.001346,0.028610,0
+69,systemstats,Ss,root,0.020478,0.064945,0
+71,configd,Ss,root,0.008275,0.064087,0
+72,powerd,Ss,root,0.030481,0.052452,0
+75,logd,Ss,root,0.068375,0.106907,0
+82,mds,Ss,root,0.097042,0.208759,0
+84,diskarbitrationd,Ss,root,0.008007,0.038719,0
+88,backupd-helper,Ss,root,0.002190,0.030899,0
+92,opendirectoryd,Ss,root,0.079689,0.103283,0
+93,apsd,Ss,root,0.011405,0.163269,0
+94,com.docker.vmnet,Ss,root,0.000165,0.001335,0
+95,nbstated,Ss,root,0.000627,0.004864,0
+96,launchservicesd,Ss,root,0.020940,0.037861,0
+97,timed,Ss,_timed,0.002891,0.056648,0
+98,usbmuxd,Ss,_usbmuxd,0.000502,0.006485,0
+99,securityd,Ss,root,0.012848,0.066471,0
+101,locationd,Ss,_locationd,0.023518,0.151348,0
+103,autofsd,Ss,root,0.000023,0.000286,0
+104,displaypolicyd,Ss,_displaypolicyd,0.002464,0.007057,0
+105,dasd,Ss,root,0.013726,0.110531,0
+109,loginwindow,Ss,root,0.025468,0.203037,0
+110,logind,Ss,root,0.000490,0.020599,0
+111,revisiond,Ss,root,0.001620,0.022602,0
+112,KernelEventAgent,Ss,root,0.000120,0.000858,0
+114,bluetoothd,Ss,root,0.002771,0.036812,0
+115,hidd,Ss,_hidd,0.349908,0.061321,0
+117,corebrightnessd,Ss,root,0.005132,0.024796,0
+118,AirPlayXPCHelper,Ss,root,0.001249,0.024891,0
+119,notifyd,Ss,root,0.035773,0.028515,0
+120,distnoted,Ss,_distnote,0.001426,0.005627,0
+124,cfprefsd,Ss,root,0.013567,0.030899,0
+127,authd,Ss,root,0.002007,0.032043,0
+138,coreservicesd,Ss,root,0.010276,0.025272,0
+145,contextstored,Ss,root,0.023729,0.076199,0
+150,airportd,Ss,root,0.036999,0.128841,0
+155,coreaudiod,Ss,_coreaudiod,0.076096,0.038338,0
+160,com.apple.ctkpcs,Ss,root,0.000017,0.000095,0
+189,nsurlsessiond,Ss,_nsurlsessiond,0.005087,0.062561,0
+196,symptomsd,Ss,_networkd,0.018231,0.105000,0
+200,lsd,Ss,root,0.001209,0.066280,0
+202,mDNSResponder,Ss,_mdnsresponder,0.008240,0.051975,0
+203,mDNSResponderHel,Ss,root,0.002167,0.005054,0
+207,syspolicyd,Ss,root,0.006062,0.067902,0
+218,apfsd,Ss,root,0.000171,0.003910,0
+220,WindowServer,Ss,root,4.808350,0.333691,0
+225,watchdogd,Ss,root,0.000542,0.005245,0
+226,thermald,Ss,root,0.000291,0.001335,0
+231,CVMServer,Ss,root,0.000182,0.002575,0
+254,mds_stores,Ss,root,0.118701,0.502110,0
+258,spindump,Ss,root,0.005195,0.060749,0
+259,SubmitDiagInfo,Ss,root,0.016966,0.084496,0
+278,sharedfilelistd,Ss,root,0.000707,0.008488,0
+280,com.apple.Ambien,Ss,root,0.017149,0.012493,0
+283,systemstats,S,root,0.000610,0.010872,0
+285,AppleCameraAssis,Ss,_cmiodalassistants,0.000319,0.005341,0
+294,securityd_servic,Ss,root,0.000086,0.003242,0
+295,UserEventAgent,S,macair,0.008293,0.100040,0
+297,distnoted,S,macair,0.009137,0.016212,0
+301,Dock,S,macair,0.050497,0.213909,0
+302,SystemUIServer,S,macair,0.040454,0.218868,0
+303,Finder,S,macair,0.061550,0.490284,0
+304,lsd,S,macair,0.006707,0.057793,0
+309,pboard,S,macair,0.001842,0.011253,0
+311,sharedfilelistd,S,macair,0.001768,0.047874,0
+318,fontd,S,macair,0.019540,0.048065,0
+324,backgroundtaskma,S,macair,0.000713,0.027180,0
+327,Android File Tra,S,macair,0.000433,0.017357,0
+329,Google Chrome,S,macair,3.070572,3.440666,0
+331,usernoted,S,macair,0.005008,0.074482,0
+333,Spotlight,S,macair,0.011327,0.288868,0
+335,useractivityd,S,macair,0.005316,0.043488,0
+336,filecoordination,Ss,root,0.000935,0.041580,0
+337,com.apple.dock.e,Ss,macair,0.004608,0.078964,0
+338,rapportd,S,macair,0.001648,0.044250,0
+339,NotificationCent,S,macair,0.010437,0.169373,0
+342,sharingd,S,macair,0.010996,0.128651,0
+345,WiFiProxy,Ss,macair,0.002298,0.029659,0
+346,CalendarAgent,S,macair,0.028637,0.157833,0
+350,identityservices,S,macair,0.004911,0.103378,0
+353,imagent,S,macair,0.004529,0.084686,0
+355,imklaunchagent,S,macair,0.002321,0.022602,0
+359,chrome_crashpad_,S,macair,0.000131,0.006199,0
+361,commerce,S,macair,0.002880,0.081348,0
+365,storeaccountd,S,macair,0.000325,0.025845,0
+366,PAH_Extension,Ss,macair,0.006707,0.054169,0
+369,Google Chrome He,S,macair,3.193746,0.228024,0
+371,Google Chrome He,S,macair,0.581550,0.456333,0
+372,wirelessproxd,Ss,root,0.000462,0.009441,0
+379,Google Chrome He,S,macair,0.034290,0.502872,0
+385,Google Chrome He,S,macair,0.084344,0.527763,0
+386,Google Chrome He,S,macair,0.002162,0.096607,0
+387,Google Chrome He,S,macair,0.056722,0.688934,0
+388,Google Chrome He,S,macair,0.028769,0.352383,0
+390,iTerm2,S,macair,0.553809,0.131416,0
+391,Google Chrome He,S,macair,0.010688,0.332451,0
+392,Google Chrome He,S,macair,0.123151,0.440407,0
+393,Google Chrome He,S,macair,0.002915,0.038338,0
+394,Google Chrome He,S,macair,0.018012,0.185394,0
+395,Google Chrome He,S,macair,0.043957,0.576305,0
+396,Google Chrome He,S,macair,0.011983,0.253010,0
+399,Electron,S,macair,1.034908,1.196289,0
+410,familycircled,S,macair,0.000205,0.003815,0
+412,CrashReporterSup,Ss,root,0.000605,0.015640,0
+420,WiFiAgent,S,macair,0.003941,0.039196,0
+425,corespeechd,S,macair,0.000029,0.000095,0
+427,SocialPushAgent,S,macair,0.000365,0.010777,0
+431,icdd,S,macair,0.000530,0.032711,0
+432,watchman,S<,macair,0.000935,0.010777,-5
+434,AirPlayUIAgent,S,macair,0.003542,0.043297,0
+436,cloudpaird,S,macair,0.001112,0.040913,0
+438,nbagent,S,macair,0.005093,0.043583,0
+439,diagnostics_agen,S,macair,0.003970,0.056744,0
+442,taskgated,Ss,root,0.011362,0.041866,0
+445,Code Helper,S,macair,0.832236,0.354671,0
+447,TISwitcher,S,macair,0.003411,0.043774,0
+491,Code Helper,S,macair,0.099466,0.458527,0
+494,Docker,S,macair,0.010855,0.135803,0
+497,crashpad_handler,S,macair,0.000137,0.005817,0
+919,syncdefaultsd,S,macair,0.007000,0.098419,0
+961,Google Chrome He,S,macair,0.106780,0.068378,0
+1089,USBAgent,S,macair,0.000074,0.002480,0
+1356,com.docker.super,S,macair,0.006795,0.119972,0
+1359,com.docker.osxfs,S,macair,0.112936,0.006104,0
+1360,com.docker.vpnki,S,macair,0.014320,0.055218,0
+1361,com.docker.drive,S,macair,0.009196,0.136852,0
+1362,com.docker.backe,S,macair,0.012403,0.020409,0
+1368,uname,Z,macair,0.000000,0.000000,0
+1577,sh,S,macair,0.000703,0.000095,0
+1592,com.docker.hyper,S,macair,2.423093,0.066471,0
+1765,Google Chrome He,S,macair,0.000773,0.034332,0
+3739,storedownloadd,S,macair,0.002136,0.028896,0
+4123,storeassetd,S,macair,0.002847,0.059986,0
+4145,IMAutomaticHisto,S,macair,0.000652,0.021935,0
+7818,com.apple.speech,S,macair,0.000649,0.004864,0
+8155,sh,S,macair,0.000822,0.007820,0
+15077,DiskUnmountWatch,S,macair,0.000032,0.029278,0
+16487,storelegacy,S,macair,0.000134,0.009155,0
+16492,LaterAgent,S,macair,0.003695,0.049210,0
+16493,storeinstalld,Ss,root,0.000087,0.006199,0
+17251,corespotlightd,S,macair,0.004396,0.033665,0
+17295,mdworker,S,macair,0.000657,0.004482,0
+17296,mdworker,S,_spotlight,0.000093,0.003433,0
+17502,PerfPowerService,Ss,root,0.024957,0.072193,0
+18017,trustd,S,macair,0.016870,0.190830,0
+18237,tccd,Ss,root,0.003837,0.148487,0
+18250,com.apple.Perfor,Ss,root,0.001129,0.091553,0
+24006,cfprefsd,S,macair,0.008963,0.044537,0
+26076,accountsd,S,macair,0.069551,0.119305,0
+26091,Google Chrome He,S,macair,0.045704,1.122284,0
+26096,Google Chrome He,S,macair,0.041267,0.990677,0
+26133,Code Helper,S,macair,1.574505,4.261684,0
+26135,Code Helper,S,macair,0.269015,1.037979,0
+26136,Code Helper,S,macair,0.003332,0.517082,0
+26170,trustd,Ss,root,0.018491,0.117588,0
+26439,storeuid,S,macair,0.005314,0.365353,0
+26581,Google Chrome He,S,macair,0.137404,1.030636,0
+26599,Google Chrome He,S,macair,0.103525,1.070213,0
+26610,com.apple.geod,S,macair,0.003812,0.179577,0
+26814,Google Chrome He,S,macair,0.228946,1.350880,0
+27060,awdd,Ss,root,0.004423,0.176525,0
+27096,CommCenter,S,macair,0.013021,0.594902,0
+27120,nsurlstoraged,S,macair,0.004864,0.153446,0
+35559,gopls,S,macair,1.296667,13.186741,0
+35673,Google Chrome He,S,macair,0.106925,1.287746,0
+35675,Google Chrome He,S,macair,0.050298,1.088905,0
+35676,Google Chrome He,S,macair,0.048096,1.237011,0
+35680,Google Chrome He,S,macair,0.127902,1.353264,0
+35681,Google Chrome He,S,macair,0.013814,0.898266,0
+35687,Google Chrome He,S,macair,0.170329,1.183224,0
+35712,com.apple.WebKit,Ss,macair,0.009726,0.438499,0
+35713,com.apple.WebKit,Ss,macair,0.004115,0.444794,0
+36095,Google Chrome He,S,macair,0.507835,2.101612,0
+36103,Google Chrome He,S,macair,0.013043,0.908089,0
+36104,Google Chrome He,S,macair,0.052179,0.999451,0
+36122,sandboxd,Ss,root,0.109803,0.149632,0
+36125,netbiosd,SNs,_netbios,0.004235,0.196075,20
+36138,tccd,S,macair,0.017061,0.159168,0
+36148,ContactsAccounts,S,macair,0.014949,0.406265,0
+36151,distnoted,S,_spotlight,0.002146,0.018120,0
+36177,cloudd,S,macair,0.040933,0.577831,0
+36200,mdworker_shared,S,macair,0.059757,0.458145,0
+36203,Keychain Circle ,S,macair,0.018098,0.698185,0
+36204,secd,S,macair,0.070819,0.274754,0
+36205,cdpd,S,macair,0.003937,0.202179,0
+36206,ProtectedCloudKe,S,macair,0.006300,0.316620,0
+36207,EscrowSecurityAl,S,macair,0.004725,0.617504,0
+36208,CloudKeychainPro,S,macair,0.004725,0.124454,0
+36210,akd,S,macair,0.017324,0.193596,0
+36211,com.apple.sbd,S,macair,0.002362,0.111771,0
+36212,adid,Ss,_fpsd,0.007087,0.138950,0
+36213,cfprefsd,S,_locationd,0.000787,0.016117,0
+36214,cfprefsd,S,_softwareupdate,0.000787,0.016117,0
+36215,routined,S,macair,0.069346,0.771904,0
+36216,secinitd,S,macair,0.007092,0.143814,0
+36218,com.apple.Accoun,Ss,root,0.001576,0.102806,0
+36219,followupd,S,macair,0.003152,0.212574,0
+36220,coresymbolicatio,Ss,root,0.003940,0.101280,0
+36221,analyticsd,Ss,_analyticsd,0.007092,0.181103,0
+36224,soagent,S,macair,0.021309,0.678349,0
+36226,WirelessRadioMan,Ss,root,0.003949,0.274563,0
+36227,keybagd,Ss,root,0.001581,0.100040,0
+36228,mdworker_shared,S,macair,0.044334,0.453949,0
+36229,amfid,Ss,root,0.001587,0.121021,0
+36230,ViewBridgeAuxili,S,macair,0.036736,0.230980,0
+36231,com.apple.CodeSi,Ss,root,0.003194,0.107098,0
+36232,bird,S,macair,0.027261,0.385952,0
+36233,ContainerMetadat,Ss,macair,0.006419,0.246429,0
+36235,Google Chrome He,S,macair,0.868199,1.287651,0
+36236,Google Chrome He,S,macair,0.013123,0.539494,0
+36237,mdworker_shared,S,macair,0.009029,0.367546,0
+36238,mdworker_shared,S,macair,0.041177,0.366688,0
+36239,mdworker_shared,S,macair,0.100471,0.505257,0
+36241,CoreServicesUIAg,S,macair,0.020368,0.318909,0
+36242,sysmond,Ss,root,0.008559,0.101757,0
+36244,gamecontrollerd,Ss,_gamecontrollerd,0.009987,0.215530,0
+36246,ocspd,Ss,root,0.008232,0.134659,0
+36247,nsurlsessiond,S,macair,0.023189,0.371552,0
+36248,coreduetd,Ss,root,0.019551,0.256634,0
+36249,AssetCacheLocato,S,macair,0.006117,0.125694,0
+36313,com.apple.iCloud,S,macair,0.062402,0.323009,0
+36686,Google Chrome,Ss,macair,0.052146,0.488472,0
+36688,chrome_crashpad_,S,macair,0.000132,0.006199,0
+36692,Google Chrome He,S,macair,0.006875,0.098515,0
+36693,Google Chrome He,S,macair,0.006328,0.159073,0
+38984,Google Chrome He,S,macair,4.584347,1.782322,0
+41006,IMRemoteURLConne,Ss,macair,0.000697,0.033188,0
+41007,IMRemoteURLConne,Ss,macair,0.000757,0.032711,0
+41010,sh,S,macair,0.001242,0.000286,0
+50449,suggestd,S,macair,0.006564,0.152016,0
+58958,mediaremoteagent,S,macair,0.000391,0.008965,0
+66089,diskmanagementd,Ss,root,0.000444,0.016785,0
+76936,Google Chrome He,S,macair,0.234989,0.826931,0
+77380,Google Chrome He,S,macair,0.020716,0.235367,0
+77797,Google Chrome He,S,macair,0.049373,0.652313,0
+83355,assertiond,S,macair,0.000610,0.029850,0
+84034,keyboardservices,S,macair,0.001135,0.079918,0
+88085,ssh-agent,S,macair,0.000031,0.000095,0
+88463,mdwrite,S,macair,0.000097,0.033569,0
+26134,zsh,Ss,macair,0.004051,0.113010,0
+39723,go,S+,macair,14.701719,0.414181,0
+39748,main,S+,macair,41.873372,0.395584,0
+39749,,,root,0.000000,0.000000,0
