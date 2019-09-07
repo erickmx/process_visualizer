@@ -30,6 +30,8 @@ func init() {
 	fakeProcecess = utils.ReadProcecess("./procecess.csv")
 }
 
+// TODO: Make visible the changes from the go routine in the GUI
+// TODO: Adjust the Table Of the procecess to a visible size
 func main() {
 	headings := []string{
 		"ID",
@@ -48,13 +50,19 @@ func main() {
 	a := app.New()
 	formData := &utils.FakeProcess{}
 	w := initGui(&a, headings, rows, formData)
-	go runProcecess(fakeProcecess)
-	time.Sleep(1 * time.Second)
-	for _, r := range fakeProcecess {
-		if r.Status == "R" {
-			fmt.Println(r)
+	// go runProcecess(fakeProcecess)
+	// time.Sleep(1 * time.Second)
+	// for _, r := range fakeProcecess {
+	//	 if r.Status == "R" {
+	//		 fmt.Println(r)
+	//	 }
+	// }
+	go func() {
+		for {
+			runProcecess(fakeProcecess)
+			time.Sleep(3 * time.Second)
 		}
-	}
+	}()
 	(*w).ShowAndRun()
 }
 
