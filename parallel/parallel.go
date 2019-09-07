@@ -16,5 +16,6 @@ func ParallelizeProcess(process *utils.FakeProcess, running int32) {
 		fmt.Println("Running process ", process)
 		time.Sleep(3 * time.Second)
 		process.Status = "S"
+		fmt.Println("Process Finished", process)
 	}
 }
